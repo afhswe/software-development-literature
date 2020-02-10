@@ -36,7 +36,7 @@
 ###### Martin Fowler, 1999
 
 #### Refactoring: Improving the Design of Existing Code
-###### First Edition (with Examples in JavaScript)
+###### Second Edition (with Examples in JavaScript)
 ###### Martin Fowler, 2018
 
 #### The Pragmatic Programmer. From Journeyman to Master
