@@ -2,6 +2,9 @@
 
 ## Agile Development Practices
 
+#### Unit Testing: Principles, Practices and Patterns
+##### Vladimir Khorikov, 2020
+
 #### Working Effectively with Legacy Code
 ###### Micheal C. Feathers, 2005
 
