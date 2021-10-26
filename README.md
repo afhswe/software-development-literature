@@ -102,4 +102,10 @@
 #### Fallacies of Distributed Computing Explained
 ###### Arnon Rotem-Gal-Oz, Doctor Dobbs Journal, 2008
 
+#### Modern Software Engineering
+##### David Farley, 2021
+
+#### Software Engineering at Google
+##### Titus Winters, Tom Manshreck, Hyrum Wright, 2020
+
 
