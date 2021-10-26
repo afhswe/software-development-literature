@@ -8,6 +8,9 @@
 #### Working Effectively with Legacy Code
 ###### Micheal C. Feathers, 2005
 
+#### 99 Bottles of OOP
+##### Sandi Metz, 2020
+
 #### BDD in Action
 ###### Behavior-Driven Development for the whole software lifecycle
 ###### John Ferguson Smart, Foreward by Dan North, 2015
