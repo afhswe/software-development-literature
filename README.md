@@ -2,6 +2,9 @@
 
 ## Agile Development Practices
 
+#### Modern Software Engineering: Doing What Works to Build Better Software Faster
+##### David Farley, 2022
+
 #### Unit Testing: Principles, Practices and Patterns
 ##### Vladimir Khorikov, 2020
 
