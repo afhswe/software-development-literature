@@ -3,7 +3,7 @@
 ## Agile Development Practices
 
 #### Modern Software Engineering: Doing What Works to Build Better Software Faster
-##### David Farley, 2022
+##### David Farley, 2021
 
 #### Unit Testing: Principles, Practices and Patterns
 ##### Vladimir Khorikov, 2020
@@ -107,9 +107,6 @@
 
 #### Fallacies of Distributed Computing Explained
 ###### Arnon Rotem-Gal-Oz, Doctor Dobbs Journal, 2008
-
-#### Modern Software Engineering
-##### David Farley, 2021
 
 #### Software Engineering at Google
 ##### Titus Winters, Tom Manshreck, Hyrum Wright, 2020
