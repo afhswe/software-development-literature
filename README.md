@@ -31,6 +31,9 @@
 #### Test-Driven Development By Example
 ###### Kent Beck, 2002
 
+#### Effective Software Testing
+##### Mauricio Aniche, 2022
+
 #### Practices of an Agile Developer
 ###### Venkat Subramaniam, Andy Hunt, 2006
 
