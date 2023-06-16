@@ -9,7 +9,13 @@
 ##### Vladimir Khorikov, 2020
 
 #### Working Effectively with Legacy Code
-###### Micheal C. Feathers, 2005
+##### Micheal C. Feathers, 2005
+
+#### Dependency Injection Principles, Practices, and Patterns
+##### Steven van Deursen and Mark Seemann, 2019
+
+#### Code That Fits in Your Head
+##### Mark Seeman, 2021
 
 #### 99 Bottles of OOP
 ##### Sandi Metz, 2020
