@@ -1,9 +1,12 @@
 # Andy's Software Development Literature List
 
-## Agile Development Practices
+## Agile Development
 
 #### Modern Software Engineering: Doing What Works to Build Better Software Faster
 ##### David Farley, 2021
+
+#### User Story Mapping
+##### Jeff Patton, 2015
 
 #### Unit Testing: Principles, Practices and Patterns
 ##### Vladimir Khorikov, 2020
@@ -125,5 +128,10 @@
 
 #### Software Engineering at Google
 ##### Titus Winters, Tom Manshreck, Hyrum Wright, 2020
+
+## Artificial Intelligence
+
+#### Applied Machine Learning and AI for Engineers
+##### Jeff Prosise, 2022
 
 
