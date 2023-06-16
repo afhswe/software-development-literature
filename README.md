@@ -24,18 +24,24 @@
 ###### Behavior-Driven Development for the whole software lifecycle
 ###### John Ferguson Smart, Foreward by Dan North, 2015
 
-#### Test Driven
-###### PRACTICAL TDD AND ACCEPTANCE TDD FOR JAVA DEVELOPERS
-###### Lasse Kosklea, 2008
-
 #### Test-Driven Development By Example
 ###### Kent Beck, 2002
+
+#### Grokking Functional Programming
+##### Michal Plachta, 2023
+
+#### Grokking Continuous Delivery
+##### Christie Wilson, 2022
 
 #### Effective Software Testing
 ##### Mauricio Aniche, 2022
 
 #### Practices of an Agile Developer
 ###### Venkat Subramaniam, Andy Hunt, 2006
+
+#### Test Driven
+###### PRACTICAL TDD AND ACCEPTANCE TDD FOR JAVA DEVELOPERS
+###### Lasse Kosklea, 2008
 
 #### Clean Code
 ###### Robert C. Martin, 2008
