@@ -2,7 +2,7 @@
 
 ## Agile Development
 
-#### Modern Software Engineering: Doing What Works to Build Better Software Faster
+### Modern Software Engineering: Doing What Works to Build Better Software Faster
 David Farley, 2021
 
 #### User Story Mapping
