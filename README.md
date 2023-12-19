@@ -5,6 +5,9 @@
 ### Modern Software Engineering: Doing What Works to Build Better Software Faster
 David Farley, 2021
 
+### Tidy First?
+Kent Beck, 2023
+
 ### Unit Testing: Principles, Practices and Patterns
 Vladimir Khorikov, 2020
 
