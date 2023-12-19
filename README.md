@@ -16,10 +16,13 @@ First Edition (with Examples in Java)
 Martin Fowler, 1999
 
 ### Test-Driven Development By Example
-#Kent Beck, 2002
+Kent Beck, 2002
 
 ### The Art of Unit Testing
-#Roy Osherove, 2009
+Roy Osherove, 2009
+
+### Grokking Simplicity
+Eric Normand, 2021
 
 ### Grokking Functional Programming
 Michal Plachta, 2023
